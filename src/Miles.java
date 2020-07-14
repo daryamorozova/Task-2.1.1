@@ -1,7 +1,7 @@
 public class Miles {
     public static void main(String[] args) {
-        long ticket = 25000;
-        long mile = ticket / 20;
+        int ticket = 25000;
+        int mile = ticket / 20;
         System.out.println("Bonus miles = " + mile);
     }
 }
